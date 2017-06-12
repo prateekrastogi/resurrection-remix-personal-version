@@ -1,0 +1,5 @@
+ota-required-cache=0
+ota-type=BLOCK
+post-build=Xiaomi/kenzo/kenzo:6.0.1/MMB29M/V8.2.1.0.MHOCNDL:user/release-keys
+post-timestamp=1497150587
+pre-device=kenzo
